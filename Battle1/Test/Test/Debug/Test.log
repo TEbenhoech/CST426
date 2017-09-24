@@ -1,0 +1,9 @@
+﻿  Battle1.cpp
+c:\users\thep\documents\cs426\hw1\battle1\test\test\battle1.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\thep\documents\cs426\hw1\battle1\project\project\spawner.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\thep\documents\cs426\hw1\battle1\project\project\monster.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\thep\documents\cs426\hw1\battle1\test\test\battle1.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\thep\documents\cs426\hw1\battle1\test\test\battle1.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\thep\documents\cs426\hw1\battle1\test\test\battle1.cpp(31): warning C4018: '<': signed/unsigned mismatch
+  Test.vcxproj -> C:\Users\Thep\Documents\CS426\HW1\Battle1\Test\Debug\Test.exe
+  Test.vcxproj -> C:\Users\Thep\Documents\CS426\HW1\Battle1\Test\Debug\Test.pdb (Full PDB)

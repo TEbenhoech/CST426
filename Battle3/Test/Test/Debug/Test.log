@@ -1,0 +1,4 @@
+﻿  Battle3.cpp
+c:\users\thep\documents\cs426\hw1\battle3\test\test\battle3.cpp(24): warning C4018: '<': signed/unsigned mismatch
+  Test.vcxproj -> C:\Users\Thep\Documents\CS426\HW1\Battle3\Test\Debug\Test.exe
+  Test.vcxproj -> C:\Users\Thep\Documents\CS426\HW1\Battle3\Test\Debug\Test.pdb (Full PDB)

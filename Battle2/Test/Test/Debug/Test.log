@@ -1,0 +1,6 @@
+﻿  Battle2.cpp
+c:\users\thep\documents\cs426\hw1\battle2\test\test\battle2.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\thep\documents\cs426\hw1\battle2\test\test\battle2.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\thep\documents\cs426\hw1\battle2\test\test\battle2.cpp(28): warning C4018: '<': signed/unsigned mismatch
+  Test.vcxproj -> C:\Users\Thep\Documents\CS426\HW1\Battle2\Test\Debug\Test.exe
+  Test.vcxproj -> C:\Users\Thep\Documents\CS426\HW1\Battle2\Test\Debug\Test.pdb (Full PDB)

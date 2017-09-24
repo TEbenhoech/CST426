@@ -1,0 +1,10 @@
+﻿  Monster.cpp
+Monster.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Spawner.cpp
+Spawner.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\thep\documents\cs426\hw1\battle1\project\project\Monster.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Monster.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Project.vcxproj -> C:\Users\Thep\Documents\CS426\HW1\Battle1\Project\Debug\Project.dll
+  Project.vcxproj -> C:\Users\Thep\Documents\CS426\HW1\Battle1\Project\Debug\Project.pdb (Partial PDB)

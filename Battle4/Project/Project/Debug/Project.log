@@ -1,0 +1,7 @@
+﻿  Component.cpp
+  Unit.cpp
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Component.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Project.vcxproj -> C:\Users\Thep\Documents\CS426\HW1\Battle4\Project\Debug\Project.dll
+  Project.vcxproj -> C:\Users\Thep\Documents\CS426\HW1\Battle4\Project\Debug\Project.pdb (Partial PDB)
